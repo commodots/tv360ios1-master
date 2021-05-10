@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "339132404793",
+    "project_id": "tv360-8680a",
+    "storage_bucket": "tv360-8680a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339132404793:android:9c371d0d36b8ac2375e9e8",
+        "android_client_info": {
+          "package_name": "com.wordpress.flutter.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339132404793-8rtb03l6riv7e1mjr28qj2c83stvm9t3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAOacGF5p0whmvl2mAyvOy0lgf4yII-a8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339132404793-8rtb03l6riv7e1mjr28qj2c83stvm9t3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
