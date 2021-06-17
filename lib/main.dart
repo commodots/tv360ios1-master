@@ -6,7 +6,6 @@ import 'package:flutter_wordpress_app/pages/local_articles.dart';
 import 'package:flutter_wordpress_app/pages/search.dart';
 import 'package:flutter_wordpress_app/pages/settings.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:fvm/fvm.dart';
 
 void main() => runApp(MyApp());
 
